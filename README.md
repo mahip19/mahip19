@@ -52,13 +52,13 @@ I've been coding since I was **14**, when I built my first Facebook landing page
 - 🌍 Based in **Boston, MA**
 - 💼 Previously **Full-Stack Engineer @ IDX India**
 - 🎯 Interests: `Distributed Systems` `Backend Engineering` `Cloud Architecture` `Machine Learning`
-- 🧩 Fun fact: I type 90 WPM 
+- 🧩 Fun fact: I type 90 WPM 🏎️💨
 
 </td>
 </tr>
 </table>
 <details>
-<summary><b>🏎️ Why I Code — The 7,000 RPM Philosophy</b></summary>
+<summary><b>♿️ The 7,000 RPM Philosophy</b></summary>
 <br/>
 <div align="center">
 <i>
