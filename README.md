@@ -125,10 +125,9 @@ and everything else just fades away.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahip19&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahip19&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-pied-ten-78.vercel.app/api?username=mahip19&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-pied-ten-78.vercel.app/api/top-langs/?username=mahip19&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahip19&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
